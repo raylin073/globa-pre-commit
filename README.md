@@ -1,0 +1,1 @@
+# globa-pre-commit
